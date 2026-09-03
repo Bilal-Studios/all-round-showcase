@@ -1,0 +1,98 @@
+{
+  "requestedUrl": "http://127.0.0.1:8787/documents/VCRO-0017",
+  "finalUrl": "http://127.0.0.1:8787/documents/VCRO-0017",
+  "capturedAt": "2026-09-03T02:42:10.572Z",
+  "route": "/documents/VCRO-0017",
+  "views": [
+    {
+      "name": "desktop",
+      "width": 1920,
+      "height": 1080,
+      "deviceScaleFactor": 2,
+      "hero": "/tmp/vcdocs-showcase-20260903/screenshots/paid-invoice/site-paid-invoice-desktop-1920x1080.png",
+      "pageHeight": 2384,
+      "frames": [
+        {
+          "viewport": {
+            "width": 1920,
+            "height": 1080,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 2384,
+          "scrollY": 0,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/paid-invoice/showcase/desktop/01-desktop-1920x1080-y0.png"
+        },
+        {
+          "viewport": {
+            "width": 1920,
+            "height": 1080,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 2384,
+          "scrollY": 972,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/paid-invoice/showcase/desktop/02-desktop-1920x1080-y972.png"
+        },
+        {
+          "viewport": {
+            "width": 1920,
+            "height": 1080,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 2384,
+          "scrollY": 1304,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/paid-invoice/showcase/desktop/03-desktop-1920x1080-y1304.png"
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "width": 430,
+      "height": 932,
+      "deviceScaleFactor": 2,
+      "hero": "/tmp/vcdocs-showcase-20260903/screenshots/paid-invoice/site-paid-invoice-mobile-430x932.png",
+      "pageHeight": 3042,
+      "frames": [
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 3042,
+          "scrollY": 0,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/paid-invoice/showcase/mobile/01-mobile-430x932-y0.png"
+        },
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 3042,
+          "scrollY": 838,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/paid-invoice/showcase/mobile/02-mobile-430x932-y838.png"
+        },
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 3042,
+          "scrollY": 1676,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/paid-invoice/showcase/mobile/03-mobile-430x932-y1676.png"
+        },
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 3042,
+          "scrollY": 2110,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/paid-invoice/showcase/mobile/04-mobile-430x932-y2110.png"
+        }
+      ]
+    }
+  ]
+}

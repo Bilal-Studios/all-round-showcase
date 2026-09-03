@@ -1,0 +1,58 @@
+{
+  "requestedUrl": "http://127.0.0.1:8787/documents",
+  "finalUrl": "http://127.0.0.1:8787/documents",
+  "capturedAt": "2026-09-03T02:42:10.572Z",
+  "route": "/documents",
+  "views": [
+    {
+      "name": "desktop",
+      "width": 1920,
+      "height": 1080,
+      "deviceScaleFactor": 2,
+      "hero": "/tmp/vcdocs-showcase-20260903/screenshots/register/site-register-desktop-1920x1080.png",
+      "pageHeight": 1080,
+      "frames": [
+        {
+          "viewport": {
+            "width": 1920,
+            "height": 1080,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 1080,
+          "scrollY": 0,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/register/showcase/desktop/01-desktop-1920x1080-y0.png"
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "width": 430,
+      "height": 932,
+      "deviceScaleFactor": 2,
+      "hero": "/tmp/vcdocs-showcase-20260903/screenshots/register/site-register-mobile-430x932.png",
+      "pageHeight": 1480,
+      "frames": [
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 1480,
+          "scrollY": 0,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/register/showcase/mobile/01-mobile-430x932-y0.png"
+        },
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 1480,
+          "scrollY": 548,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/register/showcase/mobile/02-mobile-430x932-y548.png"
+        }
+      ]
+    }
+  ]
+}

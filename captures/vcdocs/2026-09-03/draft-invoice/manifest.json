@@ -1,0 +1,78 @@
+{
+  "requestedUrl": "http://127.0.0.1:8787/invoices/6/edit",
+  "finalUrl": "http://127.0.0.1:8787/invoices/6/edit",
+  "capturedAt": "2026-09-03T02:42:10.572Z",
+  "route": "/invoices/6/edit",
+  "views": [
+    {
+      "name": "desktop",
+      "width": 1920,
+      "height": 1080,
+      "deviceScaleFactor": 2,
+      "hero": "/tmp/vcdocs-showcase-20260903/screenshots/draft-invoice/site-draft-invoice-desktop-1920x1080.png",
+      "pageHeight": 1214,
+      "frames": [
+        {
+          "viewport": {
+            "width": 1920,
+            "height": 1080,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 1214,
+          "scrollY": 0,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/draft-invoice/showcase/desktop/01-desktop-1920x1080-y0.png"
+        },
+        {
+          "viewport": {
+            "width": 1920,
+            "height": 1080,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 1214,
+          "scrollY": 134,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/draft-invoice/showcase/desktop/02-desktop-1920x1080-y134.png"
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "width": 430,
+      "height": 932,
+      "deviceScaleFactor": 2,
+      "hero": "/tmp/vcdocs-showcase-20260903/screenshots/draft-invoice/site-draft-invoice-mobile-430x932.png",
+      "pageHeight": 2034,
+      "frames": [
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 2034,
+          "scrollY": 0,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/draft-invoice/showcase/mobile/01-mobile-430x932-y0.png"
+        },
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 2034,
+          "scrollY": 838,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/draft-invoice/showcase/mobile/02-mobile-430x932-y838.png"
+        },
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 2034,
+          "scrollY": 1102,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/draft-invoice/showcase/mobile/03-mobile-430x932-y1102.png"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "requestedUrl": "http://127.0.0.1:8787/admin",
+  "finalUrl": "http://127.0.0.1:8787/admin",
+  "capturedAt": "2026-09-03T02:42:10.572Z",
+  "route": "/admin",
+  "views": [
+    {
+      "name": "desktop",
+      "width": 1920,
+      "height": 1080,
+      "deviceScaleFactor": 2,
+      "hero": "/tmp/vcdocs-showcase-20260903/screenshots/control-room/site-control-room-desktop-1920x1080.png",
+      "pageHeight": 1177,
+      "frames": [
+        {
+          "viewport": {
+            "width": 1920,
+            "height": 1080,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 1177,
+          "scrollY": 0,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/control-room/showcase/desktop/01-desktop-1920x1080-y0.png"
+        },
+        {
+          "viewport": {
+            "width": 1920,
+            "height": 1080,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 1177,
+          "scrollY": 97,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/control-room/showcase/desktop/02-desktop-1920x1080-y97.png"
+        }
+      ]
+    },
+    {
+      "name": "mobile",
+      "width": 430,
+      "height": 932,
+      "deviceScaleFactor": 2,
+      "hero": "/tmp/vcdocs-showcase-20260903/screenshots/control-room/site-control-room-mobile-430x932.png",
+      "pageHeight": 1766,
+      "frames": [
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 1766,
+          "scrollY": 0,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/control-room/showcase/mobile/01-mobile-430x932-y0.png"
+        },
+        {
+          "viewport": {
+            "width": 430,
+            "height": 932,
+            "deviceScaleFactor": 2
+          },
+          "pageHeight": 1766,
+          "scrollY": 834,
+          "filename": "/tmp/vcdocs-showcase-20260903/screenshots/control-room/showcase/mobile/02-mobile-430x932-y834.png"
+        }
+      ]
+    }
+  ]
+}
